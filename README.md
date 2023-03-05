@@ -17,7 +17,7 @@ is a program that can make your own CCTV camera at home, and also has a feature 
 * because the esp32 cam doesn't have a USB port then we need FTDI. Connect the FTDI to the esp 32 cam as shown.
 
 <p align="center" width="100%">
-    <img width="70%" src="https://user-images.githubusercontent.com/78086681/222943474-6b73fb47-329a-4d88-b8fc-c934ab8ba647.png"
+    <img width="90%" src="https://user-images.githubusercontent.com/78086681/222943474-6b73fb47-329a-4d88-b8fc-c934ab8ba647.png"
 "> 
 </p>
 
@@ -50,16 +50,16 @@ String CHAT_ID = "..."; // your ID chat
 * Connect the FTDI to the esp 32 cam and PIR Sensors
 
 <p align="center" width="100%">
-    <img width="70%" src="https://user-images.githubusercontent.com/78086681/222945784-ef0296c3-f5b3-4f2c-984c-e081374aae46.png"
+    <img width="90%" src="https://user-images.githubusercontent.com/78086681/222945784-ef0296c3-f5b3-4f2c-984c-e081374aae46.png"
 "> 
 </p>
 
-* open the telegram chat that you have made run / start
+* open the telegram chat that you have made run /start
 
 <p align="center"> display will be like this </p>
 
 <p align="center" width="100%">
-    <img width="20%" src="https://user-images.githubusercontent.com/78086681/222946090-1ee4c03c-3c8b-45f7-ada4-7256d90242d6.jpg"
+    <img width="40%" src="https://user-images.githubusercontent.com/78086681/222946090-1ee4c03c-3c8b-45f7-ada4-7256d90242d6.jpg"
 "> 
 </p>
 
